@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/boat", (req, res) => {
-  res.send("você vai comprar um barco");
+  res.send("você vai comprar um barco!!");
 });
 
 app.get("/house", (req, res) => {
